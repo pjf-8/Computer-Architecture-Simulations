@@ -1,4 +1,4 @@
-# Computer Architechture Project
+# Computer Architecture Project
 
 ## Overview
 This project consists of 2 python files which demonstrate the following
